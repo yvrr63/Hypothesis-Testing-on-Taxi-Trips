@@ -28,7 +28,7 @@ Card payments generally have slightly higher median fares.
 These histograms compare Card vs Cash for fare amount and trip distance.
 Card trips show higher frequency for mid–high fare ranges.
 
-### Distribution of Fare Amount & Trip Distance
+### 2️⃣ Distribution of Fare Amount & Trip Distance
 ![Distribution](images/distribution_fare_distance.png)
 
 3️⃣ Passenger Count Distribution (Stacked Bar)
@@ -45,7 +45,7 @@ Single-passenger rides dominate, but card usage is higher across all groups.
 Shows overall preference between Card and Cash.
 Card is clearly more preferred (~67%).
 
-### Payment Preference
+### 4️⃣ Payment Preference
 ![Payment Preference](images/preference_payment_type.png)
 
 ### 🧪 Hypothesis Testing
