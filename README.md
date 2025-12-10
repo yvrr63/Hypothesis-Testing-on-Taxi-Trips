@@ -17,7 +17,6 @@ This analysis inspects NYC taxi trip data (subset) to determine whether payment 
 
 📊 Visualization Section
 1️⃣ Fare Amount by Payment Type (Boxplot)
-
 This plot shows how fare amounts vary for Card and Cash payments.
 Card payments generally have slightly higher median fares.
 
